@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156267038644",
+    "project_id": "celebration-and-wedding-app",
+    "storage_bucket": "celebration-and-wedding-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156267038644:android:ad596d8bcbf61fee1dd4e1",
+        "android_client_info": {
+          "package_name": "com.example.my_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156267038644-4tr2lmkbju02kelgh2cb23ve3di0ivc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzEt9cshfibq1-gDKMF7grn6aAFgn3Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156267038644-4tr2lmkbju02kelgh2cb23ve3di0ivc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
